@@ -10,7 +10,7 @@
     <br>
     <div class="flex justify-center">
          <div class="w-full bg-white p-6 rounded-lg">
-            
+            Hello there
         </div>
     </div>
 @endsection
